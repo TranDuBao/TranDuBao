@@ -119,7 +119,7 @@
 
 * 📧 Email: dubao1005@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/dubao2k4/
-* 🌐 Portfolio: [Coming Soon](https://dubaomusic.vercel.app/)
+* 🌐 Portfolio: [Music Stream](https://dubaomusic.vercel.app/)
 
 ---
 
