@@ -83,15 +83,12 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </p>
----
 
 ---
 # 🏆 Achievements
 
 <p align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=TranDuBao&theme=tokyonight&row=1&column=6)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=TranDuBao&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
