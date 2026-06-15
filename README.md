@@ -67,28 +67,30 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/dubao2k4/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:dubao1005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/your-instagram/">
+<a href="https://www.instagram.com/sss_tdb5">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/your-facebook">
+<a href="https://www.facebook.com/dubao2k4">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </p>
+---
+
 ---
 # 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TranDuBao&theme=tokyonight&row=1&column=6" />
+![Trophy](https://github-profile-trophy.vercel.app/?username=TranDuBao&theme=tokyonight&row=1&column=6)
 
 </p>
 
