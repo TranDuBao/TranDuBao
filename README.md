@@ -10,14 +10,27 @@
 
 ---
 
-# 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-| Category | Details |
-|-----------|-----------|
-| 🎓 Education | Information Systems Student |
-| 💻 Interests | Full Stack Development, AI, Cloud Computing |
-| 🌱 Learning | Docker, System Design, Cloud Deployment |
-| 🎯 Goal | Full Stack Software Engineer |
+<div align="center">
+
+🎓 Information Systems Student
+
+💻 Passionate about:
+- Full Stack Development
+- Cloud Computing
+- Artificial Intelligence
+- Quantitative Trading
+
+🌱 Currently Learning:
+- Docker
+- System Design
+- Cloud Deployment
+
+🎯 Career Goal:
+Become a Full Stack Software Engineer and build scalable real-world applications.
+
+</div>
 
 ---
 
