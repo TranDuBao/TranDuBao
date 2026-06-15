@@ -128,10 +128,9 @@ const bao = {
 
 # 📫 Contact
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: your-linkedin
-* 🌐 Portfolio: Coming Soon
+* 📧 Email: dubao1005@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/dubao2k4/
+* 🌐 Portfolio: [Coming Soon](https://dubaomusic.vercel.app/)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=TranDuBao\&color=blue)
