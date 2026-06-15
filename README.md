@@ -12,23 +12,12 @@
 
 # 🚀 About Me
 
-```javascript
-const bao = {
-  education: "Information Systems Student",
-  location: "Vietnam",
-  interests: [
-    "Full Stack Development",
-    "Cloud Computing",
-    "AI Agents",
-    "Quantitative Trading"
-  ],
-  currentlyLearning: [
-    "Docker",
-    "System Design",
-    "Cloud Deployment"
-  ]
-}
-```
+| Category | Details |
+|-----------|-----------|
+| 🎓 Education | Information Systems Student |
+| 💻 Interests | Full Stack Development, AI, Cloud Computing |
+| 🌱 Learning | Docker, System Design, Cloud Deployment |
+| 🎯 Goal | Full Stack Software Engineer |
 
 ---
 
