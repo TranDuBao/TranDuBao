@@ -34,11 +34,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TranDuBao&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDuBao&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TranDuBao&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDuBao&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -46,13 +43,10 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TranDuBao&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com/?user=TranDuBao&theme=tokyonight"/>
 </p>
 
 ---
-
 # 📈 Contribution Graph
 
 [![TranDuBao github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TranDuBao\&theme=tokyo-night)](https://github.com/TranDuBao)
