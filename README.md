@@ -34,7 +34,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TranDuBao&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TranDuBao&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDuBao&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
