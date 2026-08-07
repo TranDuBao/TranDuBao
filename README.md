@@ -126,12 +126,46 @@
 
 ---
 
-# 🥛 Milk Product Management Website
-> A robust, responsive, and secure Web Application designed for managing milk inventory, product categories, and user permissions efficiently.
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+# ✈️ DuBaoTravel — Travel Booking Portal
+
+> 🌍 A full-stack travel booking platform developed by **Trần Dũ Bảo** — **Full Stack Developer**.
+>
+> A modern Travel Portal / OTA that allows users to discover and book **tours, hotels, and flights**, manage personal itineraries, make online payments, and track booking history.
+
+### 🛠️ Tech Stack
+
+![React](https://skillicons.dev/icons?i=react,vite)
+![Node.js](https://skillicons.dev/icons?i=nodejs,express)
+![MySQL](https://skillicons.dev/icons?i=mysql,redis)
+
+**Frontend:** React 19 · Vite · React Router · Vanilla CSS
+**Backend:** Node.js · Express.js · RESTful API
+**Database:** MySQL
+**Authentication:** JWT · bcrypt
+**Maps:** Leaflet · OpenStreetMap
+**Payment:** SePay · VietQR
+**Other:** Puppeteer · PDF Export
+
+### ✨ Key Features
+
+* ✈️ **Tour, Hotel & Flight Booking** — Search, filter, view details, and make reservations.
+* 💳 **Online Payment** — Integrated SePay Webhook with dynamic VietQR payment and automatic payment verification.
+* 🗺️ **Interactive Maps** — Display hotel locations and points of interest using Leaflet and OpenStreetMap.
+* 🧳 **Trip Planner** — Drag-and-drop itinerary builder with PDF export.
+* 🔐 **JWT Authentication & RBAC** — Role-based access control for User, Partner, and Admin.
+* 🏨 **Partner Dashboard** — Manage hotels, rooms, pricing, availability, and bookings.
+* 📊 **Admin Dashboard** — Manage users, bookings, flights, and monitor revenue analytics.
+* ⭐ **Reviews & Ratings** — Users can review and rate completed travel services.
+
+### 🚀 Technical Highlights
+
+* ⚡ Automated payment verification through **SePay Webhook**.
+* 🔒 Secure authentication and **role-based authorization** using JWT.
+* 🗺️ Location-based hotel discovery with interactive maps.
+* 📄 PDF itinerary generation.
+* 📊 Responsive UI with modern design system and micro-animations.
+* 🔌 RESTful API architecture connecting React frontend with Express backend.
+
 ---
 ## ⚡ Tech Stack
 | Component | Technology | Description |
