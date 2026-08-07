@@ -88,7 +88,7 @@
 
 ## 🎵 MusicStream
 
-> 🎧 A full-stack music streaming platform
+> 🎧 A full-stack music streaming platform developed by Trần Dũ Bảo, a Full Stack Developer.
 
 ### 🛠️ Tech Stack
 
@@ -110,7 +110,7 @@
 
 ### 🔗 Links
 
-[📂 GitHub Repository](#) · [🌐 Demo](https://dubaomusic.vercel.app/)
+[📂 GitHub Repository](https://github.com/TranDuBao/TranDuBao_Music) · [🌐 Demo](https://dubaomusic.vercel.app/)
 
 ---
 
@@ -126,13 +126,25 @@
 
 ---
 
-## 🥛 Milk Product Management Website
-
-* PHP
-* MySQL
-* Bootstrap
-* Role Management
-* Product CRUD
+# 🥛 Milk Product Management Website
+> A robust, responsive, and secure Web Application designed for managing milk inventory, product categories, and user permissions efficiently.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+---
+## ⚡ Tech Stack
+| Component | Technology | Description |
+| :--- | :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Server-side logic & API handling |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Relational database management |
+| **Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | Responsive design & UI components |
+---
+## ✨ Core Features
+- [x] 🔑 **Role Management**: Secure authentication & authorization system based on user roles (Admin / Staff).
+- [x] 📦 **Product CRUD**: Full Create, Read, Update, and Delete capabilities for milk inventory items.
+- [x] 🔍 **Category & Search**: Filter products by brands, types, and stock availability.
+- [x] 🛡️ **Security**: Prepared SQL statements & input sanitization to prevent XSS and SQL Injection.
 
 ---
 
