@@ -101,11 +101,13 @@
 
 ## 🏫 School Canteen Ordering System
 
-* ReactJS
-* Node.js
-* MySQL
-* Online Payment
-* Food Ordering
+**Flutter (Dart) · Node.js · Express.js · MySQL · RESTful API · Google Maps API · Online Payment**
+
+* Developed a mobile food ordering application using **Flutter** for students to browse menus and place food orders.
+* Built the backend with **Node.js and Express.js**, providing **RESTful APIs** for user, food, and order management.
+* Integrated **MySQL** for storing user, menu, and order data.
+* Integrated **online payment** for convenient and secure order transactions.
+* Integrated **Google Maps API** for location-based features and map services.
 
 ---
 
