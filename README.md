@@ -167,39 +167,28 @@
 * 🔌 RESTful API architecture connecting React frontend with Express backend.
 
 ---
-## ⚡ Tech Stack
-| Component | Technology | Description |
-| :--- | :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Server-side logic & API handling |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Relational database management |
-| **Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | Responsive design & UI components |
----
-## ✨ Core Features
-- [x] 🔑 **Role Management**: Secure authentication & authorization system based on user roles (Admin / Staff).
-- [x] 📦 **Product CRUD**: Full Create, Read, Update, and Delete capabilities for milk inventory items.
-- [x] 🔍 **Category & Search**: Filter products by brands, types, and stock availability.
-- [x] 🛡️ **Security**: Prepared SQL statements & input sanitization to prevent XSS and SQL Injection.
-
----
 
 # 🎯 Core Skills
 
-| Technology       | Progress       |
-| ---------------- | -------------- |
-| ReactJS          | █████████░ 90% |
-| NodeJS           | ████████░░ 85% |
-| ExpressJS        | ████████░░ 85% |
-| MySQL            | ████████░░ 80% |
-| PHP              | ███████░░░ 75% |
-| Cloud Deployment | ██████░░░░ 65% |
+| Technology          | Proficiency      |
+| :------------------ | :--------------- |
+| ⚛️ ReactJS          | `█████████░` 90% |
+| 🟢 Node.js          | `████████░░` 85% |
+| 🚂 Express.js       | `████████░░` 85% |
+| 🐬 MySQL            | `████████░░` 80% |
+| 🐘 PHP              | `███████░░░` 75% |
+| 🐦 Flutter          | `███████░░░` 75% |
+| 🐳 Docker           | `██████░░░░` 65% |
+| ☁️ Cloud Deployment | `██████░░░░` 65% |
 
 ---
 
 # 📫 Contact
 
+* 📞 Phone: 0325176093
 * 📧 Email: dubao1005@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/dubao2k4/
-* 🌐 Portfolio: [Music Stream](https://dubaomusic.vercel.app/)
-
+* 🌐 Demo 1: [Music Stream](https://dubaomusic.vercel.app/)
+* 🌐 Demo 2: [My Love](https://mylove-dubao.vercel.app/#/)
 ---
 
