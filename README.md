@@ -86,16 +86,31 @@
 
 ---
 
-# 🚀 Featured Projects
-
 ## 🎵 MusicStream
 
-* ReactJS
-* TailwindCSS
-* Node.js
-* ExpressJS
-* MySQL
-* Music Streaming Platform
+> 🎧 A full-stack music streaming platform
+
+### 🛠️ Tech Stack
+
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### ✨ Features
+
+| Feature | Description |
+|---|---|
+| 🎵 Music Streaming | Stream and manage music |
+| 🔎 Search | Search for songs and artists |
+| 📂 Playlist | Create and manage playlists |
+| 👤 Authentication | User registration and login |
+| 📊 Dashboard | Music and user analytics |
+
+### 🔗 Links
+
+[📂 GitHub Repository](#) · [🌐 Demo](https://dubaomusic.vercel.app/)
 
 ---
 
