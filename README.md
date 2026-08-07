@@ -100,13 +100,16 @@
 
 ### ✨ Features
 
-| Feature | Description |
-|---|---|
-| 🎵 Music Streaming | Stream and manage music |
-| 🔎 Search | Search for songs and artists |
-| 📂 Playlist | Create and manage playlists |
-| 👤 Authentication | User registration and login |
-| 📊 Dashboard | Music and user analytics |
+| Feature                   | Description                                   |
+| ------------------------- | --------------------------------------------- |
+| 🎵 Music Streaming        | Stream and manage music from multiple sources |
+| ▶️ YouTube Integration    | Search and add music from YouTube             |
+| ☁️ SoundCloud Integration | Search and add music from SoundCloud          |
+| 🔎 Search                 | Search for songs, artists, and music content  |
+| 📂 Playlist               | Create and manage personal playlists          |
+| 👤 Authentication         | User registration and login                   |
+| 📊 Dashboard              | Music and user analytics                      |
+
 
 ### 🔗 Links
 
@@ -114,15 +117,42 @@
 
 ---
 
-## 🏫 School Canteen Ordering System
+## 📱 School Canteen Ordering System
 
-**Flutter (Dart) · Node.js · Express.js · MySQL · RESTful API · Google Maps API · Online Payment**
+> 🍔 A full-stack mobile food ordering platform developed by **Trần Dũ Bảo** — **Full Stack Developer**.
 
-* Developed a mobile food ordering application using **Flutter** for students to browse menus and place food orders.
-* Built the backend with **Node.js and Express.js**, providing **RESTful APIs** for user, food, and order management.
-* Integrated **MySQL** for storing user, menu, and order data.
-* Integrated **online payment** for convenient and secure order transactions.
-* Integrated **Google Maps API** for location-based features and map services.
+### 🛠️ Tech Stack
+
+![Flutter](https://skillicons.dev/icons?i=flutter,dart)
+![Node.js](https://skillicons.dev/icons?i=nodejs,express)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Mobile:** Flutter · Dart
+**Backend:** Node.js · Express.js · RESTful API
+**Database:** MySQL
+**Maps:** Google Maps API
+**Payment:** Online Payment
+
+### ✨ Features
+
+| Feature             | Description                                             |
+| ------------------- | ------------------------------------------------------- |
+| 🍔 Food Ordering    | Browse menus, add items to cart, and place food orders  |
+| 🛒 Cart & Orders    | Manage cart items and track order status                |
+| 💳 Online Payment   | Secure online payment for food orders                   |
+| 📍 Google Maps      | Location-based features and map integration             |
+| 👤 Authentication   | User registration, login, and profile management        |
+| 📦 Order Management | Manage and track orders throughout the ordering process |
+| 🔔 Order Status     | Receive and monitor real-time order status updates      |
+
+### 🚀 Highlights
+
+* 📱 Developed a **cross-platform mobile application** using Flutter.
+* ⚙️ Designed and implemented a **RESTful backend** with Node.js and Express.js.
+* 🗄️ Designed a relational database using **MySQL** for users, menus, carts, and orders.
+* 💳 Integrated **online payment** into the ordering workflow.
+* 🗺️ Integrated **Google Maps API** for location-based functionality.
+* 🔗 Connected the Flutter application with backend services through RESTful APIs.
 
 ---
 
