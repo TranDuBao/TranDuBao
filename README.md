@@ -137,7 +137,7 @@
 
 [📂 GitHub Repository](https://github.com/TranDuBao/<repo-name>) 
 [🌐 Demo Web Admin/Restaurant](https://admin.foodroute.id.vn/)
-[📱 Mobile App (Android) | [Download APK](<link-tai-app>)]
+[📱 Mobile App (Android) | [Download APK](https://github.com/TranDuBao/datthucan_trenduongve/releases/download/v1.0.0/FoodRoute_v1.1.apk)]
 
 ---
 
