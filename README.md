@@ -24,9 +24,7 @@
 # 💻 Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,nodejs,express,mysql,sqlite,php,git,github,vscode,postman" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,javascript,typescript,nodejs,express,nestjs,flutter,dart,cpp,php,mysql,postgres,sqlite,docker,git,github,vercel,vscode,postman&perline=11" />
 </p>
 
 ---
