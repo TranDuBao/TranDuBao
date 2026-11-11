@@ -86,6 +86,58 @@
 
 ---
 
+---
+
+# 🍜 FoodRoute — Smart Food Discovery Along Your Route
+
+> 🎓 **Graduation Thesis** — *Xây dựng ứng dụng kết nối thực khách và địa điểm ẩm thực theo vị trí*, developed by **Trần Dũ Bảo** — **Full Stack Developer**.
+>
+> Instead of searching for restaurants first, the user picks a route from Point A to Point B and discovers restaurants along the way, then orders, reserves a table, and pays right from the app.
+
+### 🛠️ Tech Stack
+
+![Flutter](https://skillicons.dev/icons?i=flutter,dart)
+![NestJS](https://skillicons.dev/icons?i=nestjs,typescript)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres,docker)
+
+**Mobile:** Flutter · Dart · Provider (MVVM) · get_it
+**Backend:** NestJS · TypeORM · RESTful API
+**Database:** PostgreSQL (Docker)
+**Realtime:** Socket.io
+**Maps:** Route corridor scanning (500–800 m each side of the route)
+**Payment:** VietQR · PayOS · MoMo
+**Web:** Restaurant Portal & Admin Dashboard
+
+### ✨ Key Features
+
+* 🗺️ **Route-based Discovery** — Scan a corridor along the route and suggest restaurants on the way.
+* 🧭 **Smart Guidance** — Origin → restaurant → destination, with the travelled part of the route clearing as you move.
+* 🛍️ **3 Dining Modes** — Pick up on the way, pre-order, or dine in.
+* 📅 **Table Reservation** — Book a table from the app, synced in realtime with the restaurant.
+* 🍽️ **Add-on Dishes** — Tick extra items grouped by type (drinks, rice, bún, phở…).
+* 💳 **Cashless Payment** — QR / e-wallet payment flow.
+* 🔔 **Realtime Notifications** — New order → restaurant; confirmed / preparing / ready / picked-up → customer.
+* 🏪 **Become a Store Partner** — Register in-app, admin reviews and approves, role switches automatically.
+* 🆘 **Support Hub** — Incident reports, live chat, FAQ, feedback and hotline, managed by admin.
+* 📊 **Restaurant Portal** — Order management, menu, vouchers, bookings, revenue reports.
+* 🛡️ **Admin Dashboard** — Users, orders, store approvals, partner terms and support management.
+
+### 🚀 Technical Highlights
+
+* ⚡ **Socket.io realtime sync** across the customer app, restaurant portal and admin web.
+* 🧱 Modular **NestJS** architecture (controller / service / entity / DTO per module).
+* 🐘 Relational schema on **PostgreSQL** with TypeORM, run through **Docker**.
+* 📱 Clean Flutter structure: screens, providers, services and models, with a service locator.
+* 🔐 Role-based flows for Customer, Store and Admin.
+
+### 🔗 Links
+
+[📂 GitHub Repository](https://github.com/TranDuBao/<repo-name>) 
+[🌐 Demo Web Admin/Restaurant](https://admin.foodroute.id.vn/)
+[📱 Mobile App (Android) | [Download APK](<link-tai-app>)]
+
+---
+
 ## 🎵 MusicStream
 
 > 🎧 A full-stack music streaming platform developed by Trần Dũ Bảo, a Full Stack Developer.
