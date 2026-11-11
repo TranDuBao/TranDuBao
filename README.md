@@ -78,10 +78,13 @@
 </p>
 
 ---
+
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TranDuBao&theme=onedark&row=1&column=6" />
+  <img src="https://img.shields.io/badge/🎓_Graduation_Thesis-FoodRoute-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-4+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack-React_%7C_NestJS_%7C_Flutter-orange?style=for-the-badge" />
 </p>
 
 ---
